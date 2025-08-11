@@ -31,8 +31,8 @@ Project ini menggunakan **data publik** dari TikTok melalui **Apify**, dan menja
 ## 📎 Link Terkait
 - **Streamlit App** → [Klik di sini](https://exploratorydataanalysisbrands.streamlit.app/)  
 - **GitHub Repository** → [Klik di sini](https://github.com/YBDG-M/Analisis-TikTok-Marketing-Keputusan-Pembelian)  
-- **Notion Dokumentasi** → [Klik di sini](https://grand-sink-25e.notion.site/Analisis-TikTok-Marketing-Keputusan-Pembelian-24b817c0e2c980bb975be08d20c81ceb)  
-- **Video Presentasi** → [Klik di sini](https://drive.google.com/file/d/15VKEQPqyZuN-ZkphIQXg5Rzi5kWuUV0G/view?usp=sharing)  
+- **Notion** → [Klik di sini](https://grand-sink-25e.notion.site/Analisis-TikTok-Marketing-Keputusan-Pembelian-24b817c0e2c980bb975be08d20c81ceb)  
+- **Video** → [Klik di sini](https://drive.google.com/file/d/15VKEQPqyZuN-ZkphIQXg5Rzi5kWuUV0G/view?usp=sharing)  
 
 ---
 
